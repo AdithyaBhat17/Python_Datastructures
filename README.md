@@ -2,7 +2,7 @@
 This contains the codes for  coursera assignments on Python_for_everybody(Python Data structures)
 
 # emailcount.py
-this code reads the file mbox-short.txt and finds the occurance of each word and returns the words which has the minimim and maximum number of occurances.
+finds all the emails and returns email ids with the most & least number of mails sent respectively.
 
 # emaillist.py
 reads the file emaillist.txt and adds all the email id's to a list and prints the list along with the email count.
